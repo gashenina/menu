@@ -1,4 +1,4 @@
-# python_notebooks
+# What's on the menu
 | Название проекта | Описание задачи | Стек    |
 | :---------------- | :------------------ | :------------------------- |
 |<a href='https://nbviewer.jupyter.org/github/gashenina/email_frequency_reco/blob/master/email_frequency_reco.ipynb#back'>Персонализация частоты рассылок</a> |Определить оптимальную частоту рассылок на уровне клиента для минимизации рисков по оттоку, в т.ч. пассивному оттоку, без снижения моментального траффика |Работа с данными:`pandas`, `numpy`; Визуализация: `matplotlib`, `seaborn`; ML:`scipy`, `sklearn`|
