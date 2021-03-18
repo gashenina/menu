@@ -1,5 +1,4 @@
 # Проекты
 | Название проекта | Описание задачи |
 | :---------------- | :------------------ | 
-|<a href='https://nbviewer.jupyter.org/github/gashenina/python_notebooks/blob/master/MSC_restaurants.ipynb'>Исследование рынка заведений общественного питания Москвы</a>|Проанализировать рынок заведений общественного питания в Москве на основе открытых данных|
-|<a href='https://nbviewer.jupyter.org/github/gashenina/python_notebooks/blob/master/YP_final_short.ipynb'>Анализ ассортимента для интернет-магазина</a>|Проанализировать ассортимент товаров для оптимизации рекомендаций покупателям и закупок: определить какие товары входят в основной, а какие в дополнительный ассортимент|  
+|<a href='https://nbviewer.jupyter.org/github/gashenina/python_notebooks/blob/master/web_scraping_vacancies.ipynb'>Анализ вакансий аналитиков</a>|Можно ли внутри профессии Аналитик выделить специализации и если да, то как отличаются навыки для них?|  
